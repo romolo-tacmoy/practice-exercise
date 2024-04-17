@@ -1,1 +1,1 @@
-this is read me 
+HELLO this is practice-exercise my repository
